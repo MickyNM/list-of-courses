@@ -13,7 +13,7 @@
 
 <h2>Languages 📍</h2>
 - Serbian: Native speaker<br>
-- English: B2<br>
+- English: B2/daily communication<br>
 
 <h2>Relevant skills and competencies</h2>
 🔹 HTML
@@ -32,19 +32,19 @@
 🔹 Threads
 
 <h2>Courses ✏️</h2>
-🔹Java
 
--	Advanced Java course – Soft Line Education - Belgrade<br>
--	Basic Java course, training and practice – IT OiP - Belgrade<br>
+🔹 Java
+- Advanced Java course – Soft Line Education - Belgrade<br>
+- Basic Java course, training and practice – IT OiP - Belgrade<br>
 
-🔹JavaScript
+🔹 JavaScript
 
-🔹SpringBoot
+🔹 SpringBoot
 
-🔹Git
-- Git/Github-essentials
+🔹 Git
+- Git/Github-essentials - Amigoscode
 
-☑️ MS Office computer course
-Advanced Excel course
-English course
-Training for working on projects
+🔸 MS Office computer course<br>
+🔸 Advanced Excel course<br>
+🔸 English course<br>
+🔸 Training for working on projects<br>
